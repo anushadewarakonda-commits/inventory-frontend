@@ -2,7 +2,7 @@
 
 ### Cloud-Powered Inventory Management & E-Commerce Platform
 
-![Project Architecture](Anusha’s E Store Architecture Showcase (1).png)
+![Project Architecture](project-architecture.png)
 
 ## 📌 Overview
 
